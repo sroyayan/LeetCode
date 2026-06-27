@@ -7,6 +7,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sroyayan/LeetCode/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/sroyayan/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [2413-smallest-even-multiple](https://github.com/sroyayan/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sroyayan/LeetCode/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/sroyayan/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
