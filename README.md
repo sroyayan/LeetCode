@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sroyayan/LeetCode/tree/master/0067-add-binary) |
+| [0728-self-dividing-numbers](https://github.com/sroyayan/LeetCode/tree/master/0728-self-dividing-numbers) |
 ## String
 |  |
 | ------- |
