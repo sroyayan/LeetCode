@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sroyayan/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/sroyayan/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sroyayan/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sroyayan/LeetCode/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/sroyayan/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sroyayan/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/sroyayan/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -29,5 +31,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sroyayan/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sroyayan/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
