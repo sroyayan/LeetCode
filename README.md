@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sroyayan/LeetCode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [2798-number-of-employees-who-met-the-target](https://github.com/sroyayan/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
