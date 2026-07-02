@@ -45,4 +45,5 @@
 |  |
 | ------- |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sroyayan/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sroyayan/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 <!---LeetCode Topics End-->
