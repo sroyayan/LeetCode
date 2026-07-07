@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sroyayan/LeetCode/tree/master/0067-add-binary) |
+| [3110-score-of-a-string](https://github.com/sroyayan/LeetCode/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
