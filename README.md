@@ -15,6 +15,7 @@
 | [2413-smallest-even-multiple](https://github.com/sroyayan/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sroyayan/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sroyayan/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/sroyayan/LeetCode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sroyayan/LeetCode/tree/master/0169-majority-element) |
 | [2404-most-frequent-even-element](https://github.com/sroyayan/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [3945-digit-frequency-score](https://github.com/sroyayan/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
