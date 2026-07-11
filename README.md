@@ -13,6 +13,7 @@
 | [0342-power-of-four](https://github.com/sroyayan/LeetCode/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/sroyayan/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [2413-smallest-even-multiple](https://github.com/sroyayan/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sroyayan/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sroyayan/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sroyayan/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/sroyayan/LeetCode/tree/master/3945-digit-frequency-score) |
