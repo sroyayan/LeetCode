@@ -52,6 +52,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sroyayan/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/sroyayan/LeetCode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/sroyayan/LeetCode/tree/master/0414-third-maximum-number) |
 | [2404-most-frequent-even-element](https://github.com/sroyayan/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sroyayan/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sroyayan/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sroyayan/LeetCode/tree/master/0169-majority-element) |
+| [0414-third-maximum-number](https://github.com/sroyayan/LeetCode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
