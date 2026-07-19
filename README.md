@@ -15,6 +15,7 @@
 | [0728-self-dividing-numbers](https://github.com/sroyayan/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [2413-smallest-even-multiple](https://github.com/sroyayan/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sroyayan/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/sroyayan/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sroyayan/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sroyayan/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/sroyayan/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -79,4 +80,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/sroyayan/LeetCode/tree/master/0169-majority-element) |
 | [2404-most-frequent-even-element](https://github.com/sroyayan/LeetCode/tree/master/2404-most-frequent-even-element) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/sroyayan/LeetCode/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
