@@ -13,6 +13,7 @@
 | [0342-power-of-four](https://github.com/sroyayan/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/sroyayan/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/sroyayan/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1512-number-of-good-pairs](https://github.com/sroyayan/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/sroyayan/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sroyayan/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/sroyayan/LeetCode/tree/master/2843-count-symmetric-integers) |
@@ -55,6 +56,7 @@
 | [0035-search-insert-position](https://github.com/sroyayan/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/sroyayan/LeetCode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/sroyayan/LeetCode/tree/master/0414-third-maximum-number) |
+| [1512-number-of-good-pairs](https://github.com/sroyayan/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/sroyayan/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sroyayan/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/sroyayan/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sroyayan/LeetCode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/sroyayan/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/sroyayan/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3945-digit-frequency-score](https://github.com/sroyayan/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sroyayan/LeetCode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/sroyayan/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/sroyayan/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Enumeration
 |  |
